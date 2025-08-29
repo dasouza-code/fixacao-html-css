@@ -23,3 +23,6 @@ Este é um site simples e responsivo criado para **fixação de conceitos de HTM
 
 ![captura de tela](./img/site.jpg)
 
+---
+
+## 🔗 Acesse o site aqui: [Ver site](https://dasouza-code.github.io/fixacao-html-css/)
